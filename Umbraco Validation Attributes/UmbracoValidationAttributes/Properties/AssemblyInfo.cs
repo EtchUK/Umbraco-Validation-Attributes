@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("MVC validation attributes for Umbraco")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("The Umbraco Community")]
-[assembly: AssemblyProduct("UmbracoValidationAttributes")]
+[assembly: AssemblyProduct("Etch.UmbracoValidationAttributes")]
 [assembly: AssemblyCopyright("Copyright \xa9 Warren Buckley, The Umbraco Community 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
