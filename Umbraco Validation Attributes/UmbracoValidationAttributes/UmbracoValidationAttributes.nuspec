@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>$id$</id>
+    <id>Etch.UmbracoValidationAttributes</id>
     <version>$version$</version>
     <title>$title$</title>
     <authors>Warren Buckley, https://github.com/warrenbuckley</authors>
@@ -9,8 +9,8 @@
     <projectUrl>https://github.com/EtchUK/Umbraco-Validation-Attributes</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Created Nuget package.</releaseNotes>
-    <copyright>Copyright 2018</copyright>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright Warren Buckley, The Umbraco Community 2014</copyright>
     <tags></tags>
   </metadata>
 </package>
