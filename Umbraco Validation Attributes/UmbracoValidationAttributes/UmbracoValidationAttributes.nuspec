@@ -4,8 +4,8 @@
     <id>$id$</id>
     <version>$version$</version>
     <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <authors>Warren Buckley, https://github.com/warrenbuckley</authors>
+    <owners>Etch UK</owners>
     <projectUrl>https://github.com/EtchUK/Umbraco-Validation-Attributes</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
